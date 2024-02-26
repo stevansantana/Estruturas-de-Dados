@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638204195 source:c:\users\steva\onedrive\documentos\bubble sort\main.cpp
+	<iostream>
+
+1649432003 source:c:\users\steva\onedrive\Área de trabalho\eda\bubble sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1649432003 source:c:\users\steva\onedrive\documentos\stevan\faculdade\eda\bubble sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

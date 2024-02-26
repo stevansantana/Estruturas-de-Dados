@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650165277 source:c:\users\steva\onedrive\documentos\busca sequencial\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<cstdlib>
+	<ctime>
+

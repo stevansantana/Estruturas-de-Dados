@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639443126 source:c:\users\steva\onedrive\documentos\merge sort\main.cpp
+	<iostream>
+
+1649712878 source:c:\users\steva\onedrive\Área de trabalho\eda\merge sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

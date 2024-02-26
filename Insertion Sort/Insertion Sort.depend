@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638564607 source:c:\users\steva\onedrive\documentos\insertion sort\main.cpp
+	<iostream>
+
+1650207887 source:c:\users\steva\onedrive\Área de trabalho\eda\insertion sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650209984 source:c:\users\steva\onedrive\documentos\busca binária\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1650225232 source:c:\users\steva\onedrive\Área de trabalho\eda\busca binária\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

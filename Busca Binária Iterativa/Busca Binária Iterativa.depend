@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650247377 source:c:\users\steva\onedrive\documentos\busca binária iterativa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
